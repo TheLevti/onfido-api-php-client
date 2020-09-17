@@ -1,6 +1,5 @@
 {
     "name": "thelevti/onfido-api-php-client",
-    "version": "5.0.2",
     "description": "The Onfido API is used to submit check requests.",
     "keywords": [
         "openapitools",
